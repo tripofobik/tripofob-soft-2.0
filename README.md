@@ -7,7 +7,7 @@ TRIPOFOB Soft - это программное обеспечение для по
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/katanadep/tripofob-soft.git
+   git clone https://github.com/tripofobik/tripofob-soft-2.0.git
    ```
 
 2. Перейдите в директорию проекта:
